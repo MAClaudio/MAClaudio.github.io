@@ -17,3 +17,4 @@ github_username:  MAClaudio
 repository: MAClaudio/MAClaudio.github.io.
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-slate
