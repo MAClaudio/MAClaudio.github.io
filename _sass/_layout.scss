@@ -1,0 +1,17 @@
+.nav-bar {
+    a {
+        color: white;
+        font-size: 20px;
+        margin-right: 1em;
+        text-decoration: underline;
+        &:hover {
+            color:grey;
+            text-decoration: none;
+        }
+        &:focus {
+            color: grey;
+            text-decoration: none;
+        }
+
+    }
+}
